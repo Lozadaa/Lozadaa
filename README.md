@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Richard! 🚀
 
-<!--
-**Lozadaa/Lozadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **philomath**. **Self-taught**. 6+ Years of Experience in Software development 👨🏽‍💻.
 
-Here are some ideas to get you started:
+I'm Software developer with experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.JS with JavaScript and Typescript ⚛️
+- I love maintain and create backends in Ruby on Rails 💎
+- I have experience with Java and Spring boot 🟢
+- I really enjoy test my code (TDD) 💙
+- I like create CI/CD process and improve existing pipelines. (Gitlab CI, Jenkins, Docker)
+- Git with Gitflow and conventional commits (I support use commitizen)💚
+- Preferred Cloud: **AWS** (experience with: Lambda, Elastic Beanstalk, VM, Route53, Certificate Manager) Also experience with **DigitalOcean**🌊
+
+## 📚 My posts in Medium: 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rlozada808/0" ><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rlozada808/0" alt="Recent Article Zsh" style="width:50%"/></a> 
