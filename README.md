@@ -6,7 +6,7 @@ I'm Software developer with experience in:
 
 - React.JS with JavaScript and Typescript ⚛️
 - I love maintain and create backends in Ruby on Rails 💎
-- I have experience with Java and Spring boot 🟢
+- I have experience with Java and Spring boot (Microservices) 🟢
 - I really enjoy test my code (TDD) 💙
 - I like create CI/CD process and improve existing pipelines. (Gitlab CI, Jenkins, Docker)
 - Git with Gitflow and conventional commits (I support use commitizen)💚
