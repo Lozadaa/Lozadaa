@@ -5,7 +5,7 @@ I’m a **philomath**. **Self-taught**. 6+ Years of Experience in Software devel
 I'm Software developer with experience in:
 
 - React.JS with JavaScript and Typescript ⚛️
-- I love maintain and create API's in Ruby on Rails 💎
+- I love maintain and create API's in NodeJS (or NestJS) 💎
 - I have experience with Java and Spring boot (Microservices) 🟢
 - I really enjoy test my code (TDD) 💙
 - I like create CI/CD process and improve existing pipelines. (Gitlab CI, Jenkins, Docker)
