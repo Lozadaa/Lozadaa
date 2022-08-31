@@ -14,4 +14,4 @@ I'm Software developer with experience in:
 - Spending free time learning Machine Learning.
 
 ## 📚 My posts in Medium: 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rlozada808/0" ><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rlozada808/0" alt="Recent Article Zsh" style="width:50%"/></a> 
+<a target="_blank" href="https://rlozada808.medium.com/dile-adi%C3%B3s-a-bash-necesitas-usar-zsh-550fa0f0c5f4" >Usar zsh en vez de bash</a> 
