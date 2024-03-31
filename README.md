@@ -11,7 +11,7 @@ I'm Software developer with experience in:
 - I like create CI/CD process and improve existing pipelines. (Gitlab CI, Jenkins, Docker)
 - Git with Gitflow and conventional commits (I support use commitizen)💚
 - Preferred Cloud: **AWS** (experience with: Lambda, Elastic Beanstalk, VM, Route53, Certificate Manager) Also experience with **DigitalOcean**🌊
-- Spending free time learning Machine Learning.
+- Spending free time learning Making Games on Unreal Engine
 
 ## Official Certifications:
 <a target="_blank" href="https://www.youracclaim.com/badges/86ce95f2-7554-46fe-8a58-4cb676867a2d/linked_in_profile">
