@@ -1,6 +1,6 @@
 ### Hi, I'm Richard! 🚀
 
-I’m a **philomath**. **Self-taught**. 6+ Years of Experience in Software development 👨🏽‍💻.
+I’m a **philomath**. **Self-taught**. 8+ Years of Experience in Software development 👨🏽‍💻.
 
 I'm Software developer with experience in:
 
